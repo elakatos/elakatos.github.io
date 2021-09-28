@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: About me
+title: Eszter Lakatos
 email: e.lakatos@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Eszter Lakatos
@@ -28,10 +28,30 @@ twitter_username: eszterlakatos42
 github_username:  elakatos
 
 # Build settings
-theme: minima
+remote_theme: samarsault/texture
+#remote_theme: pages-themes/minimal@v0.2.0
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
+texture:
+  title: Eszter Lakatos
+  tagline: Computational biologist
+  style: red
+  date_format: "%d %b %Y"
+  social_links:
+    mail: "e.lakatos@qmul.ac.uk"
+    twitter: eszterlakatos42
+    github:  elakatos
+  showNav: true
+  navigation:
+    - title: Introduction
+      url: "/about/"
+    - title: My research
+      url: "/research/"
+    - title: CV
+      url: "/cv/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
