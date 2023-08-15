@@ -1,24 +1,19 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eszter Lakatos",
+    "label": "Mathematical/systems biologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Chalmers tvargata 3",
+      "postalCode": "412 58",
+      "city": "Gothenburg",
+      "countryCode": "Sweden",
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "EszterLakatos42",
+        "url": "https://twitter.com/EszterLakatos42"
       }
     ]
   },
@@ -38,24 +33,26 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Imperial College London",
+      "area": "Theoretical Systems Biology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2013-10-01",
+      "endDate": "2017-10-01",
+      "score": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Emerging Leaders in Computational Oncology",
+      "date": "2020",
+      "awarder": "Memorial Sloan Kettering Cancer Center",
+      "summary": "Award given for scientific achievement"
+    },
+    {
+      "title": "Schrödinger Scholarship",
+      "date": "2013",
+      "awarder": "Imperial College London",
+      "summary": "PhD scholarship"
     }
   ],
   "certificates": [],
@@ -63,12 +60,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Hungarian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Swedish, French",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],
