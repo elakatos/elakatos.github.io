@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am a computational biologist, interested in applying mathematical and bioinformatic techniques to understand biology in health and disease. I work at the Department of Mathematical Sciences at Chalmers University of Technology, where I design mathematical models and bioinformatic methods to decode how cancers evolve in response to the immune system and treatment. 
 
-More info to come once this page is up and running...
+To find out more, browse my projects or contact me directly.
 

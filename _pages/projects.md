@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A quick overview of research projects - needs to be updated!
+description: A quick overview of my research and other projects!
 nav: true
 nav_order: 1
 display_categories: [work, fun]
