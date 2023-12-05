@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computational biologist, interested in applying mathematical and bioinformatic techniques to understand biology in health and disease. I work at the Department of Mathematical Sciences at Chalmers University of Technology, where I design mathematical models and bioinformatic methods to decode how cancers evolve in response to the immune system and treatment. 
+I am a computational biologist, interested in applying mathematical and bioinformatic techniques to understand biology in health and disease. I work at the Department of Mathematical Sciences at Chalmers University of Technology, where I lead the **Computing Disease Evolution in Cancer** (CODEc) group. Our group designs mathematical models and bioinformatic methods to decode how cancers evolve in response to the immune system and treatment. 
 
-To find out more, browse my projects or contact me directly.
+To find out more, browse our research projects or contact me directly.
 
