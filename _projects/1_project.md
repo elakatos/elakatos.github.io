@@ -20,19 +20,22 @@ During tumour development, cancer cells continuously acquire mutations that can 
     </div>
 </div>
 
-We combine mathematical modelling and bioinformatic evaluation of neoantigens and immune escape to investigate the genetic and epigenetic changes introduced by the tumour-immune interaction. In previous work, I   
-(i) co-developed a python-based neoantigen prediction pipeline, NeoPredPipe  
-(ii) identified the pattern of immune-induced negative selection in the clone size (or variant allele frequency) distribution of cancers  
-(iii) quantified the effect of immune escape mutations in colorectal cancers  
-(iv) demonstrated the evolutionary advantage arising from mutation rate evolution in mismatch repair-deficient cancers  
+We combine mathematical modelling and bioinformatic evaluation of neoantigens and immune escape to investigate the genetic and epigenetic changes introduced by the tumour-immune interaction.
 
-I  lead the Immune Analysis working group of the colorectal, endometrial and testicular cancer domain within the 100,000 Genomes Project.  
+### Previous work
+In work up to date, we/I
+- Co-developed a python-based neoantigen prediction pipeline, NeoPredPipe.
+- Created a stochastic model of neoantigen accummulation in growing tumours to study their evolution. We identified the pattern of immune-induced negative selection in the clone size (or variant allele frequency) distribution of cancers.
+- Evaluated immunogenic properties of a large cohort of colorectal cancers (100,000 Genomes Project), and quantified the effect of immune escape mutations.
+- Modelled the evolutionary advantage arising from mutation rate evolution in mismatch repair-deficient cancers.
+- Investigated the when and how of immune evasion using the spatially resolved multi-omic dataset of the Evolutionary Predictions in Colorectal Cancer cohort. We found early (clonal) genetic alterations and epigenome regulation to define the cancer-immune interaction that stays fairly stable in later tumour growth.
 
-At the moment, I am focusing on uncovering the epigenetic regulation of cancer immunogenicity through analysing our spatially resolved multi-omic dataset from the [Evolutionary Predictions In Colorectal Cancer project](https://sites.google.com/site/nottrevorgraham/home). We are interested in uncovering how the ongoing war with the immune system shapes the mutation landscape of colorectal cancers, and if there are distinguished times or locations where immune selection has a stronger impact.
-
-Our other interests include  
-(i) uncovering the impact of therapy on the cancer-immune interaction   
-(ii) modelling and quantifying the impact of genetic and epigenetic escape mechanisms   
-(iii) improving computational predictions of immunogenicity
+### Current and future interests
+Our (non-exhaustive) list of interests include
+- Expanding our existing models to explore how the clone size of neoantigens or spatial distribution of mutations affects tumour evolution under immune selection
+- Uncovering the impact of therapy on the cancer-immune interaction - in particular, how therapy-induced and -selected mutations alter this interaction
+- Modelling how intracellular abundances and processes contribute to (neo)antigen surface presentation and immune response. 
+- Investigating how aneuploidy and non-genetic alterations can modulate neoantigen-induced immunogenicity.
+- Understanding dynamical properties of the cancer-immune interaction from imaging data and agent-based models.
 
 
