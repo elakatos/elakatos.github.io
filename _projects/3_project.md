@@ -10,7 +10,7 @@ Cell-free DNA sequencing from blood samples is revolutionising many areas of med
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/umiseq.jpeg" title="UMIseq" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/umiseq.jpg" title="UMIseq" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
